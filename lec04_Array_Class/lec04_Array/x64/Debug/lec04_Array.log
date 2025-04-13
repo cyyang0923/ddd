@@ -1,0 +1,3 @@
+﻿  array_sub.cpp
+C:\Users\USER\Desktop\20250317\lec04_Array_Class\lec04_Array\array_sub.cpp(8,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  lec04_Array.vcxproj -> C:\Users\USER\Desktop\20250317\lec04_Array_Class\x64\Debug\lec04_Array.exe
